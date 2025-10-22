@@ -1,3 +1,9 @@
+### 👋 Hi, I'm **Vaibhav Kanojia**
+
+🎓 **B.Tech CSE @ Delhi Technological University (DTU)**  
+🏆 **4× National Hackathon Winner** | **Top 1% Kaggle (Oct 24)** | **Open-Source Contributor**  
+💼 Ex-**Infosys AI/ML Intern** | **ML Research Intern @ IGDTUW**  
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
