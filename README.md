@@ -1,27 +1,58 @@
-### 👋 Hi, I'm **Vaibhav Kanojia**
-
-🎓 **B.Tech CSE @ Delhi Technological University (DTU)**  
-🏆 **4× National Hackathon Winner** | **Top 1% Kaggle (Oct 24)** | **Open-Source Contributor**  
-💼 Ex-**Infosys AI/ML Intern** | **ML Research Intern @ IGDTUW**  
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# Vaibhav Kanojia
+
+**CS @ Delhi Technological University** &nbsp;·&nbsp; Published Researcher &nbsp;·&nbsp; AI/ML Engineer
+
+I build AI systems end to end: research, agentic infrastructure, retrieval pipelines, and the production layer that makes any of it matter.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vaibhavkanojia.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-kanojia-186b3b319)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaibhavkanojia3773@gmail.com)
+[![Research Paper](https://img.shields.io/badge/IJCNLP--AACL%202025-8A2BE2?style=flat&logo=academia&logoColor=white)](https://openreview.net/forum?id=yzK90yP53m)
+
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaibhavKanojia3773&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VaibhavKanojia3773&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKanojia3773&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-kanojia-186b3b319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavkanojia3773@gmail.com) 
+## Research
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**[Divide and Translate: Parameter Isolation with Encoder Freezing for Low-Resource Indic NMT](https://openreview.net/forum?id=yzK90yP53m)** &nbsp;·&nbsp; *IJCNLP-AACL 2025*
+
+Froze an NLLB-600M encoder and trained 8 direction-specific decoders to eliminate negative transfer across structurally unrelated low-resource Indic languages. Leaderboard: **171.4 / 161.1** across Hindi↔Bhili/Gondi/Mundari and English↔Santali · under 6% public-private drift · single 16GB GPU.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavKanojia3773&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Competitive
+
+| Platform | Result |
+|---|---|
+| Amazon ML Challenge 2025 | Rank **67 / 20,000+** · Top 1% |
+| Kaggle Playground Series · Oct 2024 | Rank **22 / 3,858** · Top 1% |
+| Wunder Fund Quant Challenge | Rank **79 / 5,000** · Top 2% · within 0.015 of global leader |
+| National Hackathons | **4× wins** · IIT Jodhpur · Delhi University · IIEST Shibpur · NIT Karnataka |
+
+---
+
+## Stack
+
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**ML / DL**&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Retrieval / Systems**&nbsp;&nbsp;
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
